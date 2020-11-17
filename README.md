@@ -1,3 +1,8 @@
+# Neon Ads
+This is a project to practice my css animations.
+
+There is a lot of vibrant colours and things moving o the page. From an accessibility point of view, it's not ideal. However, it's very fun to play around with.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
